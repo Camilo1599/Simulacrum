@@ -1,4 +1,4 @@
-package com.riwi.Entities;
+package com.riwi.entities;
 
 public class EnterpriseEntity {
     private int id;
